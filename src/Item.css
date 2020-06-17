@@ -1,0 +1,10 @@
+table {
+  width: 350px;
+  margin-bottom: 20px;
+  border: 1px solid #030303;
+}
+
+.heading{
+	text-align: left;
+	font-weight: bold; 
+}
